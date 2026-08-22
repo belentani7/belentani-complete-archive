@@ -43,7 +43,7 @@ project/client/src/components/ui/checkbox.tsx	1218 bytes
 project/client/src/components/ui/collapsible.tsx	791 bytes
 project/client/src/components/ui/command.tsx	4838 bytes
 project/client/src/components/ui/context-menu.tsx	8284 bytes
-project/client/src/components/ui/dialog.tsx	6024 bytes
+project/client/src/components/ui/dialog.tsx	6023 bytes
 project/client/src/components/ui/drawer.tsx	4255 bytes
 project/client/src/components/ui/dropdown-menu.tsx	8434 bytes
 project/client/src/components/ui/empty.tsx	2406 bytes
@@ -67,7 +67,7 @@ project/client/src/components/ui/scroll-area.tsx	1637 bytes
 project/client/src/components/ui/select.tsx	6297 bytes
 project/client/src/components/ui/separator.tsx	690 bytes
 project/client/src/components/ui/sheet.tsx	4107 bytes
-project/client/src/components/ui/sidebar.tsx	21947 bytes
+project/client/src/components/ui/sidebar.tsx	21946 bytes
 project/client/src/components/ui/skeleton.tsx	279 bytes
 project/client/src/components/ui/slider.tsx	1988 bytes
 project/client/src/components/ui/sonner.tsx	561 bytes
@@ -95,7 +95,7 @@ project/client/src/pages/NotFound.tsx	1756 bytes
 project/components.json	388 bytes
 project/ideas.md	9795 bytes
 project/package.json	3345 bytes
-project/patches/wouter@3.7.1.patch	918 bytes
+project/patches/wouter@3.7.1.patch	915 bytes
 project/pnpm-lock.yaml	260363 bytes
 project/server/index.ts	919 bytes
 project/shared/const.ts	99 bytes
@@ -105,4 +105,4 @@ project/tsconfig.json	657 bytes
 project/tsconfig.node.json	479 bytes
 project/vite.config.ts	7501 bytes
 versions/belentani-history.bundle	190889 bytes
-versions/commits.txt	1087 bytes
+versions/commits.txt	1086 bytes

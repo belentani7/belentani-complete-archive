@@ -43,7 +43,7 @@ b08b4785e03566c7a6063b3d57234deae41649676870cbbb9ab2448d816e1739  ./project/clie
 95b5b9ea89a4105045c58b7eba539e57a1f4abc5a54d43ea0f7168f46b645eeb  ./project/client/src/components/ui/collapsible.tsx
 47910540789d4de9e890de63bfc0046f9cf6bfaa86d496a98c79622900f8520c  ./project/client/src/components/ui/command.tsx
 fe63c0a0dcabe749874ad19e07dee8418337c62dd64452fc08b5abf27b49b9eb  ./project/client/src/components/ui/context-menu.tsx
-3ffd83bd2940c1191fde091bc47311aebc2b79d78824965a5c446115e58190aa  ./project/client/src/components/ui/dialog.tsx
+a0d473b7c28d783d8b9733419db6d154557397f588689b8f61e7320853692885  ./project/client/src/components/ui/dialog.tsx
 573deecc31f90fcd96f53a37b2e5363eb326fe737cbdb28cac38a5d014734fc8  ./project/client/src/components/ui/drawer.tsx
 ede99252b737a29eb1f05370956e2b842be161b6a661f1429155ac561653d029  ./project/client/src/components/ui/dropdown-menu.tsx
 c0b612929b15fd498b984d8d98d1b082a3eb294be5aa8eb9cb53b67cf152f465  ./project/client/src/components/ui/empty.tsx
@@ -67,7 +67,7 @@ aafccbe2b05d9f80b7d007301b51aaede4692efc468304c5fb11b21cd0c0ef43  ./project/clie
 40945665ec8363e55ae38f26115ee763cbc5548bed585eed569d406cbc4b7a75  ./project/client/src/components/ui/select.tsx
 23bbf3f74d01f55533f6f22ebbc2b299137421e07896cb7af21245756a10c27e  ./project/client/src/components/ui/separator.tsx
 ab22e38f2cf312a31a84fb91f7e912f0da66e809f6e1ae675ec6cf0c8ec0ba61  ./project/client/src/components/ui/sheet.tsx
-782ec3ba8a570c9a0f6ec12d7e1c1efdee5e02eb2da7aa46131c734e7f7bbea8  ./project/client/src/components/ui/sidebar.tsx
+5217b07ddc4cfa767cc003ea39cda4a01fcea015a9de42752bb4f800af0475cb  ./project/client/src/components/ui/sidebar.tsx
 1f75b999a5ad2f65e8fb807faa2b3fccef9eb333996fb4c9030575dac7393091  ./project/client/src/components/ui/skeleton.tsx
 9c458646597836916678a9bce2f3064d4d5cdb0c65d32d92bc71f57d7569fb6b  ./project/client/src/components/ui/slider.tsx
 a65fe9ded89363ec546f28401a26caec1a3aa38c52259eb829cfa33723dbe3a5  ./project/client/src/components/ui/sonner.tsx
@@ -95,7 +95,7 @@ c1ee89f46f73eeaa6ccc314f545984110fbaedebde31690a15857db4da2f3c03  ./project/clie
 8be0e54515838be398164884e96319b52bcfcbd52b2e63171d51df4131cfcb03  ./project/components.json
 8d73e2bad758ffcfde2ebdd6afc8751e6e3cff676a8c61d4cda589926dcc2e21  ./project/ideas.md
 d63489470890421dffaadc5960522b9d6ba4c0c35eedddd6fe2eb479f004256f  ./project/package.json
-4e16e6ff3fde7d6c1024d3e0c8605dc9eb6afb690d0d49958c2f449091813072  ./project/patches/wouter@3.7.1.patch
+94854d3fc278d60e7e63f8190cbb328472338a69cdff1706f4d59d926dbdf668  ./project/patches/wouter@3.7.1.patch
 a4190b27f57edc05941a2f75982789b76c4402c38ccd7c6842b0650fad7ca296  ./project/pnpm-lock.yaml
 1173c62861b9c60b2a3f55fd4189917813cdaa16f1eff6fc2f860a0e020db215  ./project/server/index.ts
 cc8cc322a6549244df90260eb5ec4472c13fb82357b0a2b1002935ea34d2985e  ./project/shared/const.ts
@@ -105,4 +105,4 @@ cc8cc322a6549244df90260eb5ec4472c13fb82357b0a2b1002935ea34d2985e  ./project/shar
 1a270cb8020d1fa879262423b9c222fa38d94b830ec61164a46b558ea9d2a526  ./project/tsconfig.node.json
 2ad9e7df2928221e116c2e5348afc368b5e22c606caef5b6670a54d8d1b4f5e4  ./project/vite.config.ts
 0cf9c6c1df2065e1ee05ec4b65baed739c132a0f8457bb319eb04a7c586f6e22  ./versions/belentani-history.bundle
-942b73bf61c327b9b93933d3e53ae78cdc062a953b101ceeb84a01cc54b3a5f9  ./versions/commits.txt
+c696af8570e2f1918bd5db2ebd120d21dc1129a39e941436fc3996f7969641bd  ./versions/commits.txt
