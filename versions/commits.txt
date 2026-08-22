@@ -1,0 +1,23 @@
+3d92cc752522d0c6d95d4fe93b1258d30b608468
+2026-08-21T00:42:58+00:00
+Enhance index.html metadata and OpenGraph tags
+
+a9010a072842a3616fc553a1e9d24094e2c34536
+2026-08-20T23:32:47+00:00
+Close autonomous GitHub handoff checklist
+
+9c24035771019b3630fdf1750130150912393656
+2026-08-20T23:32:03+00:00
+Mark GitHub verification complete
+
+681609493d7362e9bddb263019bd7f0492de4cb8
+2026-08-20T23:31:10+00:00
+Replace rejected image and prepare GitHub handoff
+
+5cef7f832afff771880051ffd21626ef25ca5ab7
+2026-08-18T17:23:44+00:00
+Checkpoint: BELENTANI — columna vertebral editorial completa: shell global, rutas /artist /archive /work /studio /portal /rights, diez idiomas, estados visible/parcial/sellado/pendiente, reduced motion, responsive desktop/mobile, recursos visuales generados e imágenes de referencia autorizadas desde Google Drive. JUDAS permanece sellado sin audio, letra, waveform, descarga ni URL pública del master. Verificado con pnpm check, pnpm build y capturas de escritorio y móvil.
+
+da49f8de2d2e91af6d255f0a2ef879a8ec6d81eb
+2026-08-18T17:08:29+00:00
+Initial project bootstrap
